@@ -107,6 +107,20 @@
   border-color: #FF0000;
 }
 
+.discord .actionBgPane{
+  background: #5a4be1;
+}
+.discord:hover{
+  border-color: #5a4be1;
+}
+
+.telegram .actionBgPane{
+  background: #2795e9;
+}
+.telegram:hover{
+  border-color: #2795e9;
+}
+
 .medium .actionBgPane {
   background: #00ab6c;
 }
